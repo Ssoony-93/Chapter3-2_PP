@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DepositScene.unity
+    guid: 55bb4f1c1f82d8d439a75a463258bdbb
+  - enabled: 1
+    path: Assets/Scenes/WithDrawalScene.unity
+    guid: 711074132b54c014f8c3dce0318a9879
   m_configObjects: {}
