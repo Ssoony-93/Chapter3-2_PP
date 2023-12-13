@@ -1,17 +1,14 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-
-public class DButtonClick : MonoBehaviour
+public class TenTBtn : MonoBehaviour
 {
-
-    // 버튼 클릭 시 호출될 함수
     public void OnButtonClick()
     {
-    
-        
-    
-    }
 
+
+        
+    }
 }
